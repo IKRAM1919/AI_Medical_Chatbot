@@ -155,7 +155,7 @@ Open browser at: `http://localhost:10000/`
 ### Docker
 
 ```bash
-docker build -t medicure .
+docker build 
 docker run -p 8000:8000 --env-file .env medicure
 ```
 
