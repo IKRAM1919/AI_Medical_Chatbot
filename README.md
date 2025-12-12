@@ -55,11 +55,13 @@ MedWeb is designed to:
 
 ### Medical Response (RAG)
 
-<img src="assets/chat_ui.png" width="700">
+<img src="assets/response.png" width="700">
+
 
 ### Medical Response (RAG)
 
-<img src="assets/response.png" width="700">
+<img src="assets/chat_ui.png" width="700">
+
 
 ---
 
