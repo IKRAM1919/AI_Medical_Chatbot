@@ -51,11 +51,11 @@ MedWeb is designed to:
 
 ### Chat Interface
 
-<img src="assets/chat_ui.png" width="700">
-
-### Home Page
-
 <img src="assets/home.png" width="700">
+
+### Medical Response (RAG)
+
+<img src="assets/chat_ui.png" width="700">
 
 ### Medical Response (RAG)
 
